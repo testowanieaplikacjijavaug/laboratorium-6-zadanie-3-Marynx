@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FractionAssertJTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-03-23T20:10:57" hostname="DESKTOP-DQ59TTI" time="0.389">
+  <properties/>
+  <testcase name="multiplyTwoFractionsToOneThird" classname="FractionAssertJTest" time="0.253"/>
+  <testcase name="testOneIndeterminate" classname="FractionAssertJTest" time="0.001"/>
+  <testcase name="testOneThird" classname="FractionAssertJTest" time="0.0"/>
+  <testcase name="multiplyTwoFractionsToIndeterminate" classname="FractionAssertJTest" time="0.004"/>
+  <testcase name="testFull" classname="FractionAssertJTest" time="0.005"/>
+  <testcase name="testHalf" classname="FractionAssertJTest" time="0.003"/>
+  <testcase name="testToString" classname="FractionAssertJTest" time="0.019"/>
+  <testcase name="addTwoFractionsToFull" classname="FractionAssertJTest" time="0.0"/>
+  <testcase name="addTwoFractionsToHalf" classname="FractionAssertJTest" time="0.001"/>
+  <testcase name="testReturnDoubleValue" classname="FractionAssertJTest" time="0.015"/>
+  <testcase name="multiplyTwoFractionsToFull" classname="FractionAssertJTest" time="0.002"/>
+  <testcase name="multiplyTwoFractionsToHalf" classname="FractionAssertJTest" time="0.001"/>
+  <testcase name="testThrowException" classname="FractionAssertJTest" time="0.067"/>
+  <testcase name="addTwoFractionsToOneThird" classname="FractionAssertJTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
